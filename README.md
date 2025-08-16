@@ -17,8 +17,6 @@ I’m passionate about learning and building new things. I believe that loving w
 
 ## 📫 Get in Touch  
 - **Email:** alamsanzida09@gmail.com  
--   
-
 
 ---
 
@@ -39,6 +37,16 @@ I’m passionate about learning and building new things. I believe that loving w
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Sanjida's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjida200109&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sanjida200109&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjida200109&layout=compact&theme=tokyonight)  
 
 ---
 
