@@ -8,8 +8,7 @@ I’m passionate about learning and building new things. I believe that loving w
 
 ## 🌱 Currently Learning  
 - Python 🐍  
-- JavaScript ⚡  
-- Meta Marketing 📊  
+- JavaScript ⚡   
 - Machine Learning 🤖  
 - Data Science 📈  
 
